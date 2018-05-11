@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.zhihu.com	TRUE	/	FALSE		_xsrf	5a2db486-8c2e-4398-aaf7-9339fa92f35f
+www.zhihu.com	FALSE	/	FALSE	1526014362	tgw_l7_route	27a99ac9a31c20b25b182fd9e44378b8
